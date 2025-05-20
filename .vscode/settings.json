@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.ignoreCMakeListsMissing": true,
+    "dart.flutterSdkPath": "C:\\dev\\flutter",
+    "python.analysis.extraPaths": [
+        "./backend/services"
+    ]
+}
