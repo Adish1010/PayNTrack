@@ -1,4 +1,4 @@
-.env            # Prevents secrets from being exposed
+*.env            # Prevents secrets from being exposed
 venv/          # Python virtual environment
 __pycache__/   # Compiled Python files
 *.pyc          # Bytecode files
